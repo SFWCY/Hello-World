@@ -1,5 +1,5 @@
 # Hello-World
-Here with you (I commit them just because they're beautiful!)
+Here with you 
 To all my friends
 The night is young
 The music is loud

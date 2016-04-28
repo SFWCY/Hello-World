@@ -1,5 +1,4 @@
 # Hello-World
-First 
 Here with you (I commit them just because they're beautiful!)
 To all my friends
 The night is young
